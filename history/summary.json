@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.grapehut.us.kg.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1273,
-    "timeDay": 1273,
-    "timeWeek": 1273,
-    "timeMonth": 1273,
-    "timeYear": 1273,
-    "dailyMinutesDown": {}
+    "uptime": "99.75%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 1619,
+    "timeDay": 1619,
+    "timeWeek": 1619,
+    "timeMonth": 1619,
+    "timeYear": 1619,
+    "dailyMinutesDown": {
+      "2024-11-02": 0
+    }
   },
   {
     "name": "小饅頭の部屋 ー RSS收藏",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 77,
-    "timeDay": 77,
-    "timeWeek": 77,
-    "timeMonth": 77,
-    "timeYear": 77,
+    "time": 71,
+    "timeDay": 71,
+    "timeWeek": 71,
+    "timeMonth": 71,
+    "timeYear": 71,
     "dailyMinutesDown": {}
   },
   {
@@ -41,17 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.grapehut.us.kg.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1273,
-    "timeDay": 1273,
-    "timeWeek": 1273,
-    "timeMonth": 1273,
-    "timeYear": 1273,
-    "dailyMinutesDown": {}
+    "uptime": "99.75%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 1619,
+    "timeDay": 1619,
+    "timeWeek": 1619,
+    "timeMonth": 1619,
+    "timeYear": 1619,
+    "dailyMinutesDown": {
+      "2024-11-02": 0
+    }
   },
   {
     "name": "live2d看板娘",
@@ -64,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 52,
-    "timeDay": 52,
-    "timeWeek": 52,
-    "timeMonth": 52,
-    "timeYear": 52,
+    "time": 50,
+    "timeDay": 50,
+    "timeWeek": 50,
+    "timeMonth": 50,
+    "timeYear": 50,
     "dailyMinutesDown": {}
   },
   {
@@ -77,17 +81,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/miraitech-chiyoda.com.ico",
     "slug": "miraitech-chiyoda-com",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 220,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
-    "dailyMinutesDown": {}
+    "uptime": "99.75%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 206,
+    "timeDay": 206,
+    "timeWeek": 206,
+    "timeMonth": 206,
+    "timeYear": 206,
+    "dailyMinutesDown": {
+      "2024-11-02": 0
+    }
   },
   {
     "name": "miraitech-chiyoda.com 后台",
@@ -95,16 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/miraitech-x7yk3.kinsta.page.ico",
     "slug": "miraitech-chiyoda-com",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 220,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
-    "dailyMinutesDown": {}
+    "uptime": "99.75%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 206,
+    "timeDay": 206,
+    "timeWeek": 206,
+    "timeMonth": 206,
+    "timeYear": 206,
+    "dailyMinutesDown": {
+      "2024-11-02": 0
+    }
   }
 ]
