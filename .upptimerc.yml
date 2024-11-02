@@ -30,7 +30,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg  # Status website logo
   introTitle: 
   introMessage:
-  theme: light
+  # theme: light
   
   navbar:
     - title: Home
