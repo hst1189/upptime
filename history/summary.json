@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.grapehut.us.kg.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1619,
     "timeDay": 1619,
     "timeWeek": 1619,
     "timeMonth": 1619,
     "timeYear": 1619,
-    "dailyMinutesDown": {
-      "2024-11-02": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "小饅頭の部屋 ー RSS收藏",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.grapehut.us.kg.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1619,
     "timeDay": 1619,
     "timeWeek": 1619,
     "timeMonth": 1619,
     "timeYear": 1619,
-    "dailyMinutesDown": {
-      "2024-11-02": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "live2d看板娘",
@@ -81,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/miraitech-chiyoda.com.ico",
     "slug": "miraitech-chiyoda-com",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 206,
     "timeDay": 206,
     "timeWeek": 206,
     "timeMonth": 206,
     "timeYear": 206,
-    "dailyMinutesDown": {
-      "2024-11-02": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "miraitech-chiyoda.com 后台",
@@ -101,18 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/miraitech-x7yk3.kinsta.page.ico",
     "slug": "miraitech-chiyoda-com",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 206,
     "timeDay": 206,
     "timeWeek": 206,
     "timeMonth": 206,
     "timeYear": 206,
-    "dailyMinutesDown": {
-      "2024-11-02": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
