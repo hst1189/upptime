@@ -5,22 +5,28 @@ repo: upptime  # GitHub repository name
 sites:
   - name: 小饅頭の部屋 ー 博客
     url: https://www.grapehut.us.kg/
+    icon: https://github.githubassets.com/favicons/favicon.svg
   
   - name: 小饅頭の部屋 ー RSS收藏
     url: https://www.grapehut.us.kg/gmerss/
+    icon: https://github.githubassets.com/favicons/favicon.svg
   
   - name: 小饅頭の部屋 ー 网站聚合导航
     url: https://www.grapehut.us.kg/webstack/
+    icon: https://github.githubassets.com/favicons/favicon.svg
   
   - name: live2d看板娘
     url: https://www.grapehut.us.kg/live2d-widget/
-  
+    icon: https://www.grapehut.us.kg/live2d-widget/avatar.png
+    
   - name: miraitech-chiyoda.com
     url: https://miraitech-chiyoda.com/
+    icon: https://miraitech-chiyoda.com/img/favicon.ico
   
   - name: miraitech-chiyoda.com 后台
     url: https://miraitech-x7yk3.kinsta.page/
-
+    icon: https://miraitech-x7yk3.kinsta.page/img/favicon.ico
+    
 status-website:
   # Add your custom domain name, or baseUrl
   cname: upptime.grapehut.us.kg
