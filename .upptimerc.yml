@@ -6,18 +6,16 @@ sites:
   - name: grapehut.us.kg
     url: https://www.grapehut.us.kg
 
-status-website:    # Status website (optional)
+status-website:
+  # Add your custom domain name, or baseUrl
+  # cname: grapehut.us.kg
+  baseUrl: /upptime
+  
   name: Upptime    # Status website title
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg  # Status website logo
-  theme: light
-  
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: grapehut.us.kg
-  # baseUrl: /your-repo-name
-
   introTitle: 
   introMessage:
+  theme: light
   
   navbar:
     - title: Status
