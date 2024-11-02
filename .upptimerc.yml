@@ -16,10 +16,10 @@ sites:
     url: https://www.grapehut.us.kg/live2d-widget
   
   - name: miraitech-chiyoda.com
-    url: https://miraitech-chiyoda.com/
+    url: https://miraitech-chiyoda.com
   
   - name: miraitech-chiyoda.com 后台
-    url: https://miraitech-x7yk3.kinsta.page/  
+    url: https://miraitech-x7yk3.kinsta.page
 
 status-website:
   # Add your custom domain name, or baseUrl
@@ -37,7 +37,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 
 i18n:
   activeIncidents: 活动事件
