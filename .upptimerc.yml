@@ -29,8 +29,8 @@ sites:
     
 status-website:
   # Add your custom domain name, or baseUrl
-  cname: upptime.grapehut.us.kg
-  # baseUrl: /upptime
+  # cname: upptime.grapehut.us.kg
+  baseUrl: /upptime
   
   name: Upptime    # Status website title
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg  # Status website logo
