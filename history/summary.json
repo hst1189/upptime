@@ -4,10 +4,10 @@
     "url": "https://www.grapehut.us.kg/",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "slug": "www-grapehut-us-kg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2457,
@@ -15,7 +15,9 @@
     "timeWeek": 2957,
     "timeMonth": 2457,
     "timeYear": 2457,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-16": 1
+    }
   },
   {
     "name": "gmerss",
@@ -106,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-16": 86,
+      "2024-11-16": 534,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
