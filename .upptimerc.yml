@@ -27,6 +27,22 @@ sites:
   - name: webstack
     url: https://webstack.grapehut.us.kg/
     icon: https://github.githubassets.com/favicons/favicon.svg
+    
+  - name: upptime
+    url: https://status.grapehut.us.kg/
+    icon: https://status.grapehut.us.kg/upptime-icon.svg
+
+  - name: font
+    url: https://myfont.us.kg/
+    icon: https://myfont.us.kg/images/favicon.ico
+    
+  - name: miraitech-kinsta
+    url: https://mirai-tech.us.kg/
+    icon: https://mirai-tech.us.kg/img/favicon.ico
+
+  - name: miraitech
+    url: https://miraitech-chiyoda.com/
+    icon: https://miraitech-chiyoda.com/img/favicon.ico
   
   - name: live2d-widget
     url: https://www.grapehut.us.kg/live2d-widget/
@@ -36,13 +52,7 @@ sites:
     url: https://www.grapehut.us.kg/live2d-cubism3/
     icon: https://www.grapehut.us.kg/live2d-widget/avatar.png
     
-  - name: miraitech
-    url: https://miraitech-chiyoda.com/
-    icon: https://miraitech-chiyoda.com/img/favicon.ico
-  
-  - name: miraitech-kinsta
-    url: https://miraitech-x7yk3.kinsta.page/
-    icon: https://miraitech-x7yk3.kinsta.page/img/favicon.ico
+
 
 
 
