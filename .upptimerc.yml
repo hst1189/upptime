@@ -16,11 +16,11 @@ commitAuthorEmail:
 
 # Add your sites here
 sites:
-  - name: www.grapehut.us.kg
-    url: https://www.grapehut.us.kg/
+  - name: blog
+    url: https://blog.grapehut.us.kg/
     icon: https://github.githubassets.com/favicons/favicon.svg
   
-  - name: gmerss
+  - name: rss
     url: https://gmerss.grapehut.us.kg/
     icon: https://github.githubassets.com/favicons/favicon.svg
   
@@ -28,7 +28,7 @@ sites:
     url: https://webstack.grapehut.us.kg/
     icon: https://github.githubassets.com/favicons/favicon.svg
     
-  - name: upptime
+  - name: status
     url: https://status.grapehut.us.kg/
     icon: https://status.grapehut.us.kg/upptime-icon.svg
 
@@ -69,8 +69,7 @@ status-website:
   navbar:
     - title: Home
       href: https://www.grapehut.us.kg/
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO      
+      icon: fa-brands fa-weixin fa-2x
 
   scripts:
     - src: https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js
@@ -108,7 +107,7 @@ i18n:
   sevelDayResponseTime: "7日間の応答時間"
   loading: "読込中"
   navGitHub: "GitHub"
-  footer: Copyright © 2024 小饅頭の部屋 All Rights Reserved.
+  footer: Copyright © 2024-2025 小饅頭の部屋 All Rights Reserved.
   #footer: "このページは[オープンソース]($REPO)で、[Upptime](https://upptime.js.org)を利用しています。"
   rateLimitExceededTitle: "レート制限を超えました"
   rateLimitExceededIntro: "1時間に実行できるリクエストの数を超えたため、このWebサイトに再度ア  クセスする前に待機する必要があります。 または、GitHubパーソナルアクセストークンを追加して、こ  のWebサイトを引き続き使用することもできます。"
