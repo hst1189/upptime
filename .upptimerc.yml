@@ -20,7 +20,7 @@ sites:
     url: https://blog.grapehut.us.kg/
     icon: https://github.githubassets.com/favicons/favicon.svg
   
-  - name: rss
+  - name: gmerss
     url: https://gmerss.grapehut.us.kg/
     icon: https://github.githubassets.com/favicons/favicon.svg
   
@@ -32,7 +32,7 @@ sites:
     url: https://status.grapehut.us.kg/
     icon: https://status.grapehut.us.kg/upptime-icon.svg
 
-  - name: font
+  - name: myfont
     url: https://myfont.us.kg/
     icon: https://myfont.us.kg/images/favicon.ico
     
@@ -78,7 +78,7 @@ status-website:
     - src: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9661896697976587' crossorigin='anonymous'
       async: true
 
-  css: "body { background-image: url('home-bg.jpg'); background-size: cover; background-position: center; }"
+  css: "body { background-image: url('home-bg.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; background-attachment: fixed;}"
 
 
 # 40 - 81 Line : WebSite
