@@ -18,22 +18,26 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "rss",
+    "name": "gmerss",
     "url": "https://gmerss.grapehut.us.kg/",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
-    "slug": "rss",
+    "slug": "gmerss",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 171,
-    "timeWeek": 171,
-    "timeMonth": 171,
-    "timeYear": 133,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "99.21%",
+    "time": 1831,
+    "timeDay": 407,
+    "timeWeek": 414,
+    "timeMonth": 1350,
+    "timeYear": 1831,
+    "dailyMinutesDown": {
+      "2024-12-26": 317,
+      "2024-12-25": 427,
+      "2024-12-01": 33
+    }
   },
   {
     "name": "webstack",
@@ -73,7 +77,7 @@
     "timeMonth": 95,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2025-01-10": 1911,
+      "2025-01-10": 2781,
       "2025-01-09": 4443,
       "2024-12-26": 4465,
       "2024-12-25": 5015,
@@ -146,21 +150,21 @@
     }
   },
   {
-    "name": "font",
+    "name": "myfont",
     "url": "https://myfont.us.kg/",
     "icon": "https://myfont.us.kg/images/favicon.ico",
-    "slug": "font",
+    "slug": "myfont",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 319,
-    "timeWeek": 485,
-    "timeMonth": 465,
-    "timeYear": 465,
+    "time": 288,
+    "timeDay": 288,
+    "timeWeek": 288,
+    "timeMonth": 288,
+    "timeYear": 288,
     "dailyMinutesDown": {}
   },
   {
@@ -198,7 +202,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-10": 385,
+      "2025-01-10": 675,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
