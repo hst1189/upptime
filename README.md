@@ -31,9 +31,9 @@ you can get your own unlimited and free uptime monitor and status page, powered 
 
 [**Visit our status website →**](https://hst1189.github.io/upptime)
 
-## 📄 Setting
+## 📄 Set up
 
-[参考设定](Setting.md)
+[参考设定](SETUP.md)
 
 ## 📄 License
 
