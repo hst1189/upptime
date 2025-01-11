@@ -14,7 +14,7 @@
 # * More by Anand Chowdhary: https://anandchowdhary.com
 
 
-name: Updates CI
+name: 99. Updates CI
 on:
   repository_dispatch:
     types: [updates]
