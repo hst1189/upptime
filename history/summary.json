@@ -4,9 +4,9 @@
     "url": "https://www.grapehut.us.kg/",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "slug": "grapehut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 358,
     "timeMonth": 613,
     "timeYear": 532,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-21": 0
+    }
   },
   {
     "name": "blog",
     "url": "https://blog.grapehut.us.kg/",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 296,
     "timeMonth": 357,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-21": 0
+    }
   },
   {
     "name": "gmerss",
     "url": "https://gmerss.grapehut.us.kg/",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "slug": "gmerss",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.72%",
@@ -52,6 +56,7 @@
     "timeMonth": 483,
     "timeYear": 1295,
     "dailyMinutesDown": {
+      "2025-02-21": 0,
       "2024-12-26": 317,
       "2024-12-25": 427,
       "2024-12-01": 33
@@ -62,9 +67,9 @@
     "url": "https://webstack.grapehut.us.kg/",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "slug": "webstack",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.74%",
@@ -74,6 +79,7 @@
     "timeMonth": 557,
     "timeYear": 1031,
     "dailyMinutesDown": {
+      "2025-02-21": 0,
       "2025-02-12": 21,
       "2024-12-26": 317,
       "2024-12-25": 427
@@ -84,9 +90,9 @@
     "url": "https://myfont.grapehut.us.kg/",
     "icon": "https://myfont.grapehut.us.kg/images/favicon.ico",
     "slug": "myfont",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,7 +101,9 @@
     "timeWeek": 336,
     "timeMonth": 575,
     "timeYear": 476,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-21": 0
+    }
   },
   {
     "name": "live2d-widget",
@@ -103,18 +111,18 @@
     "icon": "https://live2d-widget.grapehut.us.kg/avatar.png",
     "slug": "live2d-widget",
     "status": "down",
-    "uptime": "95.03%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "95.03%",
+    "uptime": "94.98%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "94.98%",
     "time": 156,
     "timeDay": 446,
     "timeWeek": 321,
     "timeMonth": 287,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-02-21": 0,
+      "2025-02-21": 34,
       "2025-01-11": 619,
       "2025-01-10": 1126,
       "2025-01-09": 521,
@@ -128,18 +136,18 @@
     "icon": "https://live2d-widget.grapehut.us.kg/avatar.png",
     "slug": "live2d-cubism3",
     "status": "down",
-    "uptime": "95.02%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "95.02%",
+    "uptime": "94.97%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "94.97%",
     "time": 207,
     "timeDay": 198,
     "timeWeek": 184,
     "timeMonth": 499,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2025-02-21": 0,
+      "2025-02-21": 34,
       "2025-02-12": 20,
       "2025-01-11": 619,
       "2025-01-10": 1112,
@@ -153,7 +161,7 @@
     "url": "https://status.grapehut.us.kg/",
     "icon": "https://status.grapehut.us.kg/upptime-icon.svg",
     "slug": "status",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -165,7 +173,7 @@
     "timeMonth": 702,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2025-02-21": 1630,
+      "2025-02-21": 1798,
       "2025-02-12": 2921,
       "2025-01-11": 4118,
       "2025-01-10": 5816,
@@ -285,18 +293,18 @@
     "icon": "https://mirai-tech.us.kg/img/favicon.ico",
     "slug": "miraitech-kinsta",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
     "time": 470,
     "timeDay": 330,
     "timeWeek": 311,
     "timeMonth": 630,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2025-02-21": 0
+      "2025-02-21": 34
     }
   },
   {
@@ -316,7 +324,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-21": 815,
+      "2025-02-21": 848,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
