@@ -17,15 +17,15 @@ commitAuthorEmail:
 # Add your sites here
 sites:
   - name: grapehut
-    url: https://www.grapehut.us.kg/
+    url: https://www.grapehut.xyz/
     icon: https://github.githubassets.com/favicons/favicon.svg
     
   - name: blog
-    url: https://blog.grapehut.us.kg/
+    url: https://blog.grapehut.xyz/
     icon: https://github.githubassets.com/favicons/favicon.svg
   
   - name: gmerss
-    url: https://gmerss.grapehut.us.kg/
+    url: https://gmerss.grapehut.xyz/
     icon: https://github.githubassets.com/favicons/favicon.svg
   
   - name: webstack
@@ -33,19 +33,19 @@ sites:
     icon: https://github.githubassets.com/favicons/favicon.svg
 
   - name: myfont
-    url: https://myfont.grapehut.us.kg/
+    url: https://myfont.grapehut.xyz/
     icon: https://myfont.grapehut.us.kg/images/favicon.ico
 
   - name: live2d-widget
-    url: https://live2d-widget.grapehut.us.kg/
+    url: https://live2d-widget.grapehut.xyz/
     icon: https://live2d-widget.grapehut.us.kg/avatar.png
 
   - name: live2d-cubism3
-    url: https://live2d-cubism3.grapehut.us.kg/
+    url: https://live2d-cubism3.grapehut.xyz/
     icon: https://live2d-widget.grapehut.us.kg/avatar.png
   
   - name: status
-    url: https://status.grapehut.us.kg/
+    url: https://status.grapehut.xyz/
     icon: https://status.grapehut.us.kg/upptime-icon.svg
   
   - name: miraitech-kinsta
@@ -61,7 +61,7 @@ sites:
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  cname: status.grapehut.us.kg
+  cname: status.grapehut.xyz
   # baseUrl: /upptime
 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -70,7 +70,7 @@ status-website:
   introMessage:
   navbar:
     - title: Home
-      href: https://www.grapehut.us.kg/
+      href: https://www.grapehut.xyz/
       icon: fa-brands fa-weixin fa-2x
 
   scripts:
