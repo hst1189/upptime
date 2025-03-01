@@ -31,7 +31,7 @@ status-website:
   cname: status.grapehut.us.kg
   # baseUrl: /upptime
 
-  logoUrl: /upptime-icon.svg
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ウェブサイト監視
   introTitle: 
   introMessage:
