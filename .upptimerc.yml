@@ -28,7 +28,7 @@ sites:
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  cname: status.grapehut.us.kg
+  cname: status.grapehut.xyz
   # baseUrl: /upptime
 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
