@@ -17,8 +17,8 @@ commitAuthorEmail:
 # Add your sites here
 sites:
   - name: miraitech-us-kg
-    url: https://mirai-tech.us.kg/
-    icon: https://mirai-tech.us.kg/img/favicon.ico
+    url: https://mirai-tech.dpdns.org/
+    icon: https://mirai-tech.dpdns.org/img/favicon.ico
 
   - name: miraitech-chiyoda-com
     url: https://miraitech-chiyoda.com/
@@ -28,7 +28,7 @@ sites:
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  cname: status.grapehut.xyz
+  cname: status.grapehut.dpdns.org
   # baseUrl: /upptime
 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
