@@ -5,18 +5,19 @@
     "icon": "https://mirai-tech.dpdns.org/img/favicon.ico",
     "slug": "miraitech-us-kg",
     "status": "down",
-    "uptime": "58.84%",
+    "uptime": "58.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.84%",
+    "uptimeYear": "58.61%",
     "time": 2005,
     "timeDay": 0,
-    "timeWeek": 310,
-    "timeMonth": 1308,
+    "timeWeek": 0,
+    "timeMonth": 1202,
     "timeYear": 2005,
     "dailyMinutesDown": {
-      "2025-11-14": 105,
+      "2025-11-15": 101,
+      "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
@@ -137,11 +138,11 @@
     "icon": "https://miraitech-chiyoda.com/img/favicon.ico",
     "slug": "miraitech-chiyoda-com",
     "status": "down",
-    "uptime": "53.83%",
+    "uptime": "54.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.29%",
+    "uptimeYear": "58.83%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -253,8 +254,7 @@
       "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
-      "2024-11-16": 1440,
-      "2024-11-15": 1440
+      "2024-11-16": 1440
     }
   }
 ]
